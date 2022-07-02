@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Robotics"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Advances in automation, artificial intellidence and robotics, while increasing productivity, will also cause major upheavals to the workforce.
